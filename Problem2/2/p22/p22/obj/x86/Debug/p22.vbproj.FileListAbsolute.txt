@@ -1,0 +1,9 @@
+C:\Problem2\2\p22\p22\bin\Debug\p22.exe
+C:\Problem2\2\p22\p22\bin\Debug\p22.pdb
+C:\Problem2\2\p22\p22\bin\Debug\p22.xml
+C:\Problem2\2\p22\p22\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Problem2\2\p22\p22\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Problem2\2\p22\p22\obj\x86\Debug\p22.vbproj.GenerateResource.Cache
+C:\Problem2\2\p22\p22\obj\x86\Debug\p22.exe
+C:\Problem2\2\p22\p22\obj\x86\Debug\p22.xml
+C:\Problem2\2\p22\p22\obj\x86\Debug\p22.pdb
