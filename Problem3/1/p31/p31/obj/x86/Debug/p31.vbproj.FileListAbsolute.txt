@@ -1,0 +1,9 @@
+C:\Problem3\1\p31\p31\bin\Debug\p31.exe
+C:\Problem3\1\p31\p31\bin\Debug\p31.pdb
+C:\Problem3\1\p31\p31\bin\Debug\p31.xml
+C:\Problem3\1\p31\p31\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Problem3\1\p31\p31\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Problem3\1\p31\p31\obj\x86\Debug\p31.vbproj.GenerateResource.Cache
+C:\Problem3\1\p31\p31\obj\x86\Debug\p31.exe
+C:\Problem3\1\p31\p31\obj\x86\Debug\p31.xml
+C:\Problem3\1\p31\p31\obj\x86\Debug\p31.pdb
