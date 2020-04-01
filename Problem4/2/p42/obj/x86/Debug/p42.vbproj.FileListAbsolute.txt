@@ -1,0 +1,9 @@
+C:\Problem4\2\p42\bin\Debug\p42.exe
+C:\Problem4\2\p42\bin\Debug\p42.pdb
+C:\Problem4\2\p42\bin\Debug\p42.xml
+C:\Problem4\2\p42\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Problem4\2\p42\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Problem4\2\p42\obj\x86\Debug\p42.vbproj.GenerateResource.Cache
+C:\Problem4\2\p42\obj\x86\Debug\p42.exe
+C:\Problem4\2\p42\obj\x86\Debug\p42.xml
+C:\Problem4\2\p42\obj\x86\Debug\p42.pdb

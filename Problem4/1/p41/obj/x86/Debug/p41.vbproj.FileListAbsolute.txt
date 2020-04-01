@@ -1,0 +1,9 @@
+C:\Problem4\1\p41\bin\Debug\p41.exe
+C:\Problem4\1\p41\bin\Debug\p41.pdb
+C:\Problem4\1\p41\bin\Debug\p41.xml
+C:\Problem4\1\p41\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Problem4\1\p41\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Problem4\1\p41\obj\x86\Debug\p41.vbproj.GenerateResource.Cache
+C:\Problem4\1\p41\obj\x86\Debug\p41.exe
+C:\Problem4\1\p41\obj\x86\Debug\p41.xml
+C:\Problem4\1\p41\obj\x86\Debug\p41.pdb
